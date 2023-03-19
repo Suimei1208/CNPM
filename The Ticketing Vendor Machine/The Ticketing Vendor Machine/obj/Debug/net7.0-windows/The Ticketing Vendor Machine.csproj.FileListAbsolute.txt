@@ -1,0 +1,30 @@
+C:\Users\Acer\Documents\Code\CNPM\The Ticketing Vendor Machine\The Ticketing Vendor Machine\bin\Debug\net7.0-windows\The Ticketing Vendor Machine.exe
+C:\Users\Acer\Documents\Code\CNPM\The Ticketing Vendor Machine\The Ticketing Vendor Machine\bin\Debug\net7.0-windows\The Ticketing Vendor Machine.deps.json
+C:\Users\Acer\Documents\Code\CNPM\The Ticketing Vendor Machine\The Ticketing Vendor Machine\bin\Debug\net7.0-windows\The Ticketing Vendor Machine.runtimeconfig.json
+C:\Users\Acer\Documents\Code\CNPM\The Ticketing Vendor Machine\The Ticketing Vendor Machine\bin\Debug\net7.0-windows\The Ticketing Vendor Machine.dll
+C:\Users\Acer\Documents\Code\CNPM\The Ticketing Vendor Machine\The Ticketing Vendor Machine\bin\Debug\net7.0-windows\The Ticketing Vendor Machine.pdb
+C:\Users\Acer\Documents\Code\CNPM\The Ticketing Vendor Machine\The Ticketing Vendor Machine\obj\Debug\net7.0-windows\The Ticketing Vendor Machine.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\Code\CNPM\The Ticketing Vendor Machine\The Ticketing Vendor Machine\obj\Debug\net7.0-windows\The_Ticketing_Vendor_Machine.Form1.resources
+C:\Users\Acer\Documents\Code\CNPM\The Ticketing Vendor Machine\The Ticketing Vendor Machine\obj\Debug\net7.0-windows\The Ticketing Vendor Machine.csproj.GenerateResource.cache
+C:\Users\Acer\Documents\Code\CNPM\The Ticketing Vendor Machine\The Ticketing Vendor Machine\obj\Debug\net7.0-windows\The Ticketing Vendor Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\Code\CNPM\The Ticketing Vendor Machine\The Ticketing Vendor Machine\obj\Debug\net7.0-windows\The Ticketing Vendor Machine.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\Code\CNPM\The Ticketing Vendor Machine\The Ticketing Vendor Machine\obj\Debug\net7.0-windows\The Ticketing Vendor Machine.AssemblyInfo.cs
+C:\Users\Acer\Documents\Code\CNPM\The Ticketing Vendor Machine\The Ticketing Vendor Machine\obj\Debug\net7.0-windows\The Ticketing Vendor Machine.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Code\CNPM\The Ticketing Vendor Machine\The Ticketing Vendor Machine\obj\Debug\net7.0-windows\The Ticketing Vendor Machine.dll
+C:\Users\Acer\Documents\Code\CNPM\The Ticketing Vendor Machine\The Ticketing Vendor Machine\obj\Debug\net7.0-windows\refint\The Ticketing Vendor Machine.dll
+C:\Users\Acer\Documents\Code\CNPM\The Ticketing Vendor Machine\The Ticketing Vendor Machine\obj\Debug\net7.0-windows\The Ticketing Vendor Machine.pdb
+C:\Users\Acer\Documents\Code\CNPM\The Ticketing Vendor Machine\The Ticketing Vendor Machine\obj\Debug\net7.0-windows\The Ticketing Vendor Machine.genruntimeconfig.cache
+C:\Users\Acer\Documents\Code\CNPM\The Ticketing Vendor Machine\The Ticketing Vendor Machine\obj\Debug\net7.0-windows\ref\The Ticketing Vendor Machine.dll
+C:\Users\Acer\Documents\Code\CNPM\The Ticketing Vendor Machine\The Ticketing Vendor Machine\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Acer\Documents\Code\CNPM\The Ticketing Vendor Machine\The Ticketing Vendor Machine\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Acer\Documents\Code\CNPM\The Ticketing Vendor Machine\The Ticketing Vendor Machine\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Acer\Documents\Code\CNPM\The Ticketing Vendor Machine\The Ticketing Vendor Machine\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Acer\Documents\Code\CNPM\The Ticketing Vendor Machine\The Ticketing Vendor Machine\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Acer\Documents\Code\CNPM\The Ticketing Vendor Machine\The Ticketing Vendor Machine\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Acer\Documents\Code\CNPM\The Ticketing Vendor Machine\The Ticketing Vendor Machine\obj\Debug\net7.0-windows\The Ticketing Vendor Machine.csproj.CopyComplete
+C:\Users\Acer\Documents\Code\CNPM\The Ticketing Vendor Machine\The Ticketing Vendor Machine\obj\Debug\net7.0-windows\The_Ticketing_Vendor_Machine.Form2.resources
+C:\Users\Acer\Documents\Code\CNPM\The Ticketing Vendor Machine\The Ticketing Vendor Machine\obj\Debug\net7.0-windows\The_Ticketing_Vendor_Machine.Form3.resources
+C:\Users\Acer\Documents\Code\CNPM\The Ticketing Vendor Machine\The Ticketing Vendor Machine\bin\Debug\net7.0-windows\QRCoder.dll
+C:\Users\Acer\Documents\Code\CNPM\The Ticketing Vendor Machine\The Ticketing Vendor Machine\bin\Debug\net7.0-windows\zxing.dll
+C:\Users\Acer\Documents\Code\CNPM\The Ticketing Vendor Machine\The Ticketing Vendor Machine\obj\Debug\net7.0-windows\The_Ticketing_Vendor_Machine.Form4.resources
+C:\Users\Acer\Documents\Code\CNPM\The Ticketing Vendor Machine\The Ticketing Vendor Machine\obj\Debug\net7.0-windows\The_Ticketing_Vendor_Machine.Properties.Resources.resources
